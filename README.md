@@ -3,7 +3,7 @@ This project aims to analyze employees data of an organization across different 
 Problem Statement
 The objective of this project is to analyze a dataset containing employee information from various departments within an organization. The dataset encompasses key attributes such as employee ID, department, education level, gender, recruitment channel, training participation, performance ratings, length of service, key performance indicators (KPIs), awards won, and average training scores.
 
-Conclusion
+Conclusion derived after analysis: 
 1. Patterns in Employee Performance and Training Effectiveness
 Departmental Variations: We observed that employee performance varies significantly across departments. Specifically, departments like Technology and R&D exhibit higher average training scores compared to others, such as HR and Sales & Marketing. This suggests that certain departments may have more effective training programs or a better alignment of employee skills with the training content.
 
